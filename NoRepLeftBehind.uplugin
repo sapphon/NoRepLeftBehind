@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NoRepLeftBehind",
+	"Description": "Disallows players from accepting a contract without spending their negotiation points.",
+	"Category": "Other",
+	"CreatedBy": "Sapphon",
+	"CreatedByURL": "http://www.github.com/sapphon",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsMod": true,
+	"Installed": false
+}

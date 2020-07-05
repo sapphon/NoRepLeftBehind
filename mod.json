@@ -1,0 +1,13 @@
+{
+	"displayName": "NoRepLeftBehind",
+	"version": "0.1",
+	"description": "Disallows players from accepting a contract without spending their negotiation points.",
+	"author": "Sapphon",
+	"authorURL": "http://www.github.com/sapphon",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.0.0",
+	"manifest": [
+		"/Game/UI/FrontEnd/Contracts/ContractsDetails.uasset",
+		"/Game/UI/FrontEnd/Contracts/ContractsNegotiationPayout.uasset"
+	]
+}
