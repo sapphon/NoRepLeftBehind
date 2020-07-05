@@ -1,6 +1,6 @@
 {
 	"displayName": "NoRepLeftBehind",
-	"version": "0.1",
+	"version": "0.2",
 	"description": "Disallows players from accepting a contract without spending their negotiation points.",
 	"author": "Sapphon",
 	"authorURL": "http://www.github.com/sapphon",
